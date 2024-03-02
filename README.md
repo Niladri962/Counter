@@ -10,9 +10,7 @@ The Counter App is a simple Android application that allows users to count and k
 - **Persistent Storage**: Counter values are saved even when the app is closed, ensuring data persistence.
 - **Intuitive UI**: Simple and user-friendly interface for a seamless experience.
 
-## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## Installation
 To install the Counter App on your Android device, follow these steps:
